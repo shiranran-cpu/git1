@@ -14,3 +14,7 @@
 1. 安装依赖：
 ```bash
 pip install -r requirements.txt
+2.运行示例：
+python src/watermark_detect.py
+3.运行测试：
+python -m unittest discover tests
